@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Saleh's github stats](https://github-readme-stats.vercel.app/api?username=salehhashemi1992&count_private=true&show_icons=true)](https://github.com/salehhashemi1992)
+
 <!--
 **salehhashemi1992/salehhashemi1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
