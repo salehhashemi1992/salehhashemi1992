@@ -9,10 +9,10 @@
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=salehhashemi1992&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salehhashemi1992&theme=default&hide_border=false" alt="GitHub Streak" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehhashemi1992&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" style="max-width: 100%;" />
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salehhashemi1992&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=salehhashemi1992&theme=default&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=salehhashemi1992&limit=5&theme=onestar&combine_all_yearly_contributions=true)
