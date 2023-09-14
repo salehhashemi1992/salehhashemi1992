@@ -1,7 +1,17 @@
 ### Hi there 👋
+From updating a typo in the documentation to enhancing features in large-scale projects, every contribution is valuable.
+
+## Who am I? 💡
+I'm Saleh, a technology lover with over 12 years of experience as a backend developer and technical lead.
+Feel free to check out my repositories and let's collaborate! 🤝
+
+Hello, World! 👋🌍
+Whether it's correcting a typo in the documentation ✏️ or contributing to feature enhancements in large-scale projects 🛠️, every single contribution counts and is deeply appreciated! 👏
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saleh-hashemi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithsaleh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saleh-hashemi) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithsaleh) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/saleh_hashemi)](https://t.me/saleh_hashemi)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=salehhashemi1992&icon=1&color=5)](https://visitcount.itsvg.in)
