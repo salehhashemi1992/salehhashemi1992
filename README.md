@@ -25,7 +25,7 @@ Feel free to check out my repositories and let's collaborate! 🤝
 ![](https://github-readme-streak-stats.herokuapp.com/?user=salehhashemi1992&theme=default&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=salehhashemi1992&limit=5&theme=onestar&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=salehhashemi1992&limit=10&theme=onestar&combine_all_yearly_contributions=true)
 
 <!--
 **salehhashemi1992/salehhashemi1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
