@@ -18,7 +18,7 @@ Feel free to check out my repositories and let's collaborate! 🤝
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=salehhashemi1992&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salehhashemi1992&theme=default&hide_border=false&include_all_commits=true&count_private=true&limit=10)" alt="GitHub Stats" style="max-width: 100%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehhashemi1992&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" style="max-width: 100%;" />
 </div>
 
