@@ -22,11 +22,6 @@ Feel free to check out my repositories and let's collaborate! 🤝
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=salehhashemi1992"/>
 </p>
 
-<!-- vercel github profile trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salehhashemi1992&column=7&margin-w=8&title=MultipleLang,Commit,PullRequest,Repositories,Followers,Stars,Issues"/>
-</p>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=salehhashemi1992&limit=10&theme=onestar&combine_all_yearly_contributions=true)
 
