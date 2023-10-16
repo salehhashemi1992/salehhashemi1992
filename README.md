@@ -13,6 +13,7 @@ Feel free to check out my repositories and let's collaborate! 🤝
 - [Laravel Framework](https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
 - [Laravel Docs](https://github.com/laravel/docs/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
 - [Pest](https://github.com/pestphp/pest/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
+- [Laravel Validate](https://github.com/milwad-dev/laravel-validate/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
 
 # 📊 GitHub Stats:
 <p align="center">
