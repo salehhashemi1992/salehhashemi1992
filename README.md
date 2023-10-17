@@ -7,7 +7,7 @@ From updating a typo in the documentation to enhancing features in large-scale p
 
 ## Who am I? 💡
 I'm Saleh, a technology lover with over 12 years of experience as a backend developer and technical lead.
-Feel free to check out my repositories and let's collaborate! 🤝
+Feel free to check out my repositories, and let's collaborate! 
 
 ## My Contributions 🤝
 - [Laravel Framework](https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
