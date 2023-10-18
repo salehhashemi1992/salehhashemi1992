@@ -10,12 +10,12 @@ I'm Saleh, a technology lover with over 12 years of experience as a backend deve
 Feel free to check out my repositories, and let's collaborate! 
 
 ## My Contributions 🤝
-![Laravel](https://github.com/laravel.png?size=20) [Laravel Framework](https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
-![Laravel](https://github.com/laravel.png?size=20) [Laravel Docs](https://github.com/laravel/docs/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
-![Rebing](https://github.com/rebing.png?size=20) [Laravel GraphQL](https://github.com/rebing/graphql-laravel/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
-![PestPHP](https://github.com/pestphp.png?size=20) [Pest](https://github.com/pestphp/pest/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
-![Milwad](https://github.com/milwad-dev.png?size=20) [Laravel Validate](https://github.com/milwad-dev/laravel-validate/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
-![TheAlgorithms](https://github.com/TheAlgorithms.png?size=20) [TheAlgorithms PHP](https://github.com/TheAlgorithms/PHP/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
+ - ![Laravel](https://github.com/laravel.png?size=20) [Laravel Framework](https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
+ - ![Laravel](https://github.com/laravel.png?size=20) [Laravel Docs](https://github.com/laravel/docs/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
+ - ![Rebing](https://github.com/rebing.png?size=20) [Laravel GraphQL](https://github.com/rebing/graphql-laravel/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
+ - ![PestPHP](https://github.com/pestphp.png?size=20) [Pest](https://github.com/pestphp/pest/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
+ - ![Milwad](https://github.com/milwad-dev.png?size=20) [Laravel Validate](https://github.com/milwad-dev/laravel-validate/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
+ - ![TheAlgorithms](https://github.com/TheAlgorithms.png?size=20) [TheAlgorithms PHP](https://github.com/TheAlgorithms/PHP/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
 
 ## My Laravel Packages <img src="https://github.com/laravel.png?size=25">
  - <img alt="Total Downloads" src="https://img.shields.io/packagist/dt/salehhashemi/laravel-intelli-db.svg"> <a href="https://github.com/salehhashemi1992/laravel-intelli-db">  Laravel IntelliDB</a> (AI Generation of database-related Laravel "artisan make" components)
