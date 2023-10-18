@@ -23,7 +23,7 @@ Feel free to check out my repositories, and let's collaborate!
  - <img alt="Total Downloads" src="https://img.shields.io/packagist/dt/salehhashemi/laravel-configurable-cache.svg"> <a href="https://github.com/salehhashemi1992/laravel-configurable-cache">  Laravel Configurable Cache</a> (Laravel configurable cache manager)
  - <img alt="Total Downloads" src="https://img.shields.io/packagist/dt/salehhashemi/laravel-intelli-git.svg"> <a href="https://github.com/salehhashemi1992/laravel-intelli-git">  Laravel IntelliGit</a> (Transform the way Laravel developers interact with Git)
  - <img alt="Total Downloads" src="https://img.shields.io/packagist/dt/salehhashemi/laravel-domain-expert.svg"> <a href="https://github.com/salehhashemi1992/laravel-domain-expert">  Laravel Domain Expert</a> (Bring Domain Driven Design into your Laravel application - AI suggestion included)
- - <img alt="Total Downloads" src="https://img.shields.io/packagist/dt/salehhashemi/laravel-intelli-graphql.svg"> <a href="https://github.com/salehhashemi1992/laravel-intelli-graphql">  Laravel IntelliGraphQL</a> (Create and manage domain-driven directory structures in your Laravel application - AI suggestion included)
+ - <img alt="Total Downloads" src="https://img.shields.io/packagist/dt/salehhashemi/laravel-intelli-graphql.svg"> <a href="https://github.com/salehhashemi1992/laravel-intelli-graphql">  Laravel IntelliGraphQL</a> (AI-driven Laravel package for generating GraphQL schemas, queries, and mutations)
 
 # 📊 GitHub Stats:
 <p align="center">
