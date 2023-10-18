@@ -26,7 +26,7 @@ Feel free to check out my repositories, and let's collaborate!
  - <img alt="Total Downloads" src="https://img.shields.io/packagist/dt/salehhashemi/laravel-intelli-graphql.svg"> <a href="https://github.com/salehhashemi1992/laravel-intelli-graphql">  Laravel IntelliGraphQL</a> (AI-driven Laravel package for generating GraphQL schemas, queries, and mutations)
 
 ## My Github Actions <img src="https://github.com/github.png?size=25">
- - <img alt="Stars" src="https://img.shields.io/github/stars/salehhashemi1992/ai-commit-message"> <a href="https://github.com/marketplace/actions/laravel-intelli-db">  AI Commit Message Generator</a> (Automatically generate commit messages and descriptions for your commits using AI)
+ - <img alt="Stars" src="https://img.shields.io/github/stars/salehhashemi1992/ai-commit-message"> <a href="https://github.com/marketplace/actions/ai-commit-message">  AI Commit Message Generator</a> (Automatically generate commit messages and descriptions for your commits using AI)
  - <img alt="Stars" src="https://img.shields.io/github/stars/salehhashemi1992/ai-code-guard"> <a href="https://github.com/marketplace/actions/ai-code-guard">  AI Code Guard</a> (Automatically reviews code changes in pull requests using AI)
  - <img alt="Stars" src="https://img.shields.io/github/stars/salehhashemi1992/pr-auto-describe"> <a href="https://github.com/marketplace/actions/pr-auto-describe">  PR Auto Describe</a> (Automatically generate descriptions for pull requests using AI)
 
