@@ -12,8 +12,8 @@ Feel free to check out my repositories, and let's collaborate!
 ## My Contributions 🤝
  - ![Laravel](https://github.com/laravel.png?size=20) [Laravel Framework](https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
  - ![Laravel](https://github.com/laravel.png?size=20) [Laravel Docs](https://github.com/laravel/docs/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
- - ![Yii 2](https://github.com/yiisoft.png?size=20) [Laravel Docs](https://github.com/yiisoft/yii2/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
- - ![CakePHP](https://github.com/cakephp.png?size=20) [Laravel Docs](https://github.com/cakephp/cakephp/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
+ - ![Yii 2](https://github.com/yiisoft.png?size=20) [Yii 2](https://github.com/yiisoft/yii2/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
+ - ![CakePHP](https://github.com/cakephp.png?size=20) [CakePHP](https://github.com/cakephp/cakephp/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
  - ![Rebing](https://github.com/rebing.png?size=20) [Laravel GraphQL](https://github.com/rebing/graphql-laravel/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
  - ![PestPHP](https://github.com/pestphp.png?size=20) [Pest](https://github.com/pestphp/pest/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
  - ![Milwad](https://github.com/milwad-dev.png?size=20) [Laravel Validate](https://github.com/milwad-dev/laravel-validate/pulls?q=is%3Amerged+is%3Apr+author%3Asalehhashemi1992) <br>
