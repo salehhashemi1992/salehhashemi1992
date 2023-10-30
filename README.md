@@ -40,7 +40,7 @@ Feel free to check out my repositories, and let's collaborate!
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img width=48%" src="https://github-readme-stats-phi-lovat.vercel.app/api?username=salehhashemi1992&show_icons=true&count_private=true&hide=none" alt="GitHub Stats"/>
+  <img width=48%" src="https://github-readme-stats-mu-gray-52.vercel.app/api?username=salehhashemi1992&show_icons=true&count_private=true&hide=none" alt="GitHub Stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=salehhashemi1992"/>
 </p>
 
