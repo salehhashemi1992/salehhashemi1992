@@ -46,7 +46,7 @@ Feel free to check out my repositories, and let's collaborate!
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=salehhashemi1992&limit=15&theme=onestar&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=salehhashemi1992&limit=14&theme=onestar&combine_all_yearly_contributions=true)
 
 <!--
 **salehhashemi1992/salehhashemi1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
